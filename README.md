@@ -16,6 +16,3 @@
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=indahreforsiana&theme=radical)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indahreforsiana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
-<div>
-  <img src="https://komarev.com/ghpvc/?username=indahreforsiana&style=flat-square&color=blue" alt=""/>
-</div>
